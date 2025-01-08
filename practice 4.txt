@@ -1,0 +1,8 @@
+public List<Product> searchProducts(String query) {
+    return Collections.emptyList();
+}
+
+
+git add .
+git commit -m "Break tests by returning empty list"
+git push origin <branch-name>
